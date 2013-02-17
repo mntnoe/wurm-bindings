@@ -1,3 +1,4 @@
+// Base script for all modes for crafting and improving items.
 bind X REPAIR
 bind Shift-X CONTINUE
 bind C IMPROVE
