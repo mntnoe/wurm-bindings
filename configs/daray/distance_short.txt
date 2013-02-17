@@ -1,0 +1,2 @@
+// Delegate to script in the common/ directory. Keep entry in menu bar short.
+exec ../../common/distance_short.txt

@@ -1,0 +1,7 @@
+exec ../../common/imp.txt
+bind F12 "// leather.txt"
+bind Ctrl-F12 "// leather.txt"
+// settoolbelt item_id_here 1 // needle
+// settoolbelt item_id_here 2 // mallet
+// settoolbelt item_id_here 3 // leather knife
+// settoolbelt item_id_here 4 // awl

@@ -1,0 +1,5 @@
+exec ../../common/crops.txt
+// settoolbelt item_id_here 1 // rake
+// settoolbelt item_id_here 2 // scythe
+// settoolbelt item_id_here 3 // sickle
+// settoolbelt item_id_here 4 // satchel

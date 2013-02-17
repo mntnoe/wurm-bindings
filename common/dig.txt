@@ -1,0 +1,6 @@
+bind F12 "// dig"
+bind Ctrl+F12 "// dig"
+bind X DIG
+bind Shift-X FLATTEN
+bind C PACK
+bind Shift-C CULTIVATE

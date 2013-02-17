@@ -1,0 +1,4 @@
+bind F12 "// animals"
+bind Ctrl+F12 "// animals"
+bind X GROOM
+bind C FEED

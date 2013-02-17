@@ -1,0 +1,6 @@
+bind F12 "// loot"
+bind Ctrl+F12 "// loot"
+bind X BUTCHER
+bind Shift-X ""
+bind C BURY
+bind Shift-C ""

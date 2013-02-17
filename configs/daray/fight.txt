@@ -1,0 +1,5 @@
+exec ../../common/fight.txt
+// settoolbelt item_id_here 1 // rope
+// settoolbelt item_id_here 2 // shovel
+// settoolbelt item_id_here 3 // butchering knife
+// settoolbelt item_id_here 4 // cotton (do not use this one up!)

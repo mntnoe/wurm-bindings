@@ -1,0 +1,3 @@
+exec ../../common/dig.txt
+// settoolbelt item_id_here 1 // shovel (grind)
+// settoolbelt item_id_here 2 // shovel (high QL)

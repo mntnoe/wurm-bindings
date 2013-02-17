@@ -1,0 +1,4 @@
+exec ../../common/wood.txt
+// settoolbelt item_id_here 1 // hatchet (grind)
+// settoolbelt item_id_here 2 // hatchet (high QL)
+// settoolbelt item_id_here 3 // sickle

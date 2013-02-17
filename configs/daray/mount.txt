@@ -1,0 +1,2 @@
+exec ../../common/mount.txt
+// settoolbelt item_id_here 1 // rope

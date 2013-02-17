@@ -1,0 +1,162 @@
+
+//
+// Base key binding setup.
+//
+// Press Shift-F11 to reload this setup.
+//
+
+
+// Movement
+
+bind W MOVE_FORWARD
+bind S MOVE_BACK
+bind A MOVE_LEFT
+bind D MOVE_RIGHT
+
+bind Q TURN_LEFT
+bind E TURN_RIGHT
+bind Next TURN_DOWN
+bind Prior TURN_UP
+
+bind Alt+W CLIMB_UP
+bind Alt+S CLIMB_DOWN
+
+bind Mouse3 AUTORUN
+bind B AUTORUN
+
+bind Mouse4 "toggle mouselook"
+
+bind Alt+C TOGGLE_CLIMB
+
+
+// Item handling
+
+bind T DROP
+bind R TAKE
+bind F EXAMINE
+bind V OPEN
+bind Shift+V CLOSE
+
+
+// Misc. actions
+
+bind Y PRAY
+bind Escape STOP
+
+
+// Toolbelt
+
+bind 1 ACTIVATE_TOOL1
+bind 2 ACTIVATE_TOOL2
+bind 3 ACTIVATE_TOOL3
+bind 4 ACTIVATE_TOOL4
+bind 5 ACTIVATE_TOOL5
+bind 6 ACTIVATE_TOOL6
+bind 7 ACTIVATE_TOOL7
+
+
+// Chat
+
+bind Return TOGGLE_CHAT
+
+bind Tab NEXT_TAB
+bind Shift+Tab PREVIOUS_TAB
+bind Ctrl+Tab NEXT_WINDOW
+bind Ctrl+Shift+Tab PREVIOUS_WINDOW
+
+
+// Modes
+
+// The X and C keys are bound in the mode files.
+bind X ""
+bind C ""
+bind Shift+X ""
+bind Shift+C ""
+
+bind F1 "exec mine.txt"
+bind F2 "exec dig.txt"
+bind F3 "exec wood.txt"
+bind F4 "exec crops.txt"
+bind F5 "exec animals.txt"
+bind F6 "exec forage.txt"
+bind F7 "exec mount.txt"
+bind F8 "exec move.txt"
+bind F9 "exec loot.txt"
+bind F10 ""
+bind F11 ""
+// F12 is used to show the current mode in the menu bar
+bind F12 ""
+
+bind Ctrl+F1 "exec smith.txt"
+bind Ctrl+F2 "exec carp.txt"
+bind Ctrl+F3 "exec leather.txt"
+bind Ctrl+F4 "exec cloth.txt"
+bind Ctrl+F5 "exec pottery.txt"
+bind Ctrl+F6 ""
+bind Ctrl+F7 ""
+bind Ctrl+F8 ""
+bind Ctrl+F9 ""
+bind Ctrl+F10 ""
+bind Ctrl+F11 ""
+// Ctrl+F12 is used to show the current mode in the menu bar
+bind Ctrl+F12 ""
+
+
+// Options, chat commands, window toggling
+
+bind Shift+F1 "toggle console"
+bind Shift+F2 "toggle skills"
+bind Shift+F3 "toggle inventory"
+bind Shift+F4 "say /weather"
+bind Shift+F5 "say /sleep"
+bind Shift+F6 "say /time"
+bind Shift+F7 "say /uptime"
+bind Shift+F8 "toggle spelleffects"
+bind Shift+F9 "toggle options"
+bind Shift+F10 MAIN_MENU
+bind Shift+F11 "exec base.txt"
+bind Shift+F12 "quit"
+
+bind Ctrl+Shift+F1 "say guards!"
+bind Ctrl+Shift+F2 ""
+bind Ctrl+Shift+F3 ""
+bind Ctrl+Shift+F5 "say /fsleep"
+bind Ctrl+Shift+F6 ""
+bind Ctrl+Shift+F7 ""
+bind Ctrl+Shift+F8 "setoption sound_al_gain 0"
+bind Ctrl+Shift+F9 "setoption sound_al_gain 20"
+bind Ctrl+Shift+F10 "exec distance_short.txt"
+bind Ctrl+Shift+F11 "exec distance_long.txt"
+bind Ctrl+Shift+F12 ""
+
+
+// Combat
+
+// Using two keys to target to avoid accidents :-)
+bind Z NO_TARGET
+bind Shift+Z TARGET
+
+bind Numpad0 FOCUS
+bind Decimal SHIELD_BASH
+
+bind 8 SPECIAL_MOVE1
+bind 9 SPECIAL_MOVE2
+bind 0 SPECIAL_MOVE3
+bind Minus SPECIAL_MOVE4
+bind Equals SPECIAL_MOVE5
+
+bind Numpad1 AIM_LOWER_LEFT
+bind Numpad2 AIM_LOWER_MIDDLE
+bind Numpad3 AIM_LOWER_RIGHT
+bind Numpad4 AIM_LEFT
+bind Numpad5 AIM_MIDDLE
+bind Numpad6 AIM_RIGHT
+bind Numpad7 AIM_UPPER_LEFT
+bind Numpad8 AIM_UPPER_MIDDLE
+bind Numpad9 AIM_UPPER_RIGHT
+
+bind Add DEFEND_RIGHT
+bind Multiply DEFEND_UPPER
+bind Divide DEFEND_LEFT
+bind Subtract DEFEND_LOWER
+

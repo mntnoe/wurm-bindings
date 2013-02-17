@@ -1,0 +1,5 @@
+bind X REPAIR
+bind Shift-X CONTINUE
+bind C IMPROVE
+bind Shift-C FINISH
+

@@ -1,0 +1,6 @@
+bind F12 "// mount"
+bind Ctrl+F12 "// mount"
+bind X DRAG
+bind Shift-X STOP_DRAGGING
+bind C LEAD
+bind Shift-C STOP_LEADING

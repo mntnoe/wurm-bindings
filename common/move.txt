@@ -1,0 +1,6 @@
+bind F12 "// move"
+bind Ctrl+F12 "// move"
+bind X PULL
+bind Shift-X TURN_COUNTERCLOCKWISE
+bind C PUSH
+bind Shift-C TURN_CLOCKWISE

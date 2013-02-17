@@ -1,0 +1,3 @@
+exec ../../common/mine.txt
+// settoolbelt item_id_here 1 // pickaxe (grind)
+// settoolbelt item_id_here 2 // pickaxe (high QL)

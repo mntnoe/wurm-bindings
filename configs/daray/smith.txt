@@ -1,0 +1,7 @@
+exec ../../common/imp.txt
+bind F12 "// smith"
+bind Ctrl-F12 "// smith"
+// settoolbelt item_id_here 1 // water
+// settoolbelt item_id_here 2 // hammer
+// settoolbelt item_id_here 3 // whetstone
+// settoolbelt item_id_here 4 // pelt

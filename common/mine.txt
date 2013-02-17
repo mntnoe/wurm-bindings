@@ -1,0 +1,5 @@
+bind F12 "// mine"
+bind Ctrl+F12 "// mine"
+bind X PROSPECT
+bind C MINE_FORWARD
+bind Shift-C MINE_TUNNEL

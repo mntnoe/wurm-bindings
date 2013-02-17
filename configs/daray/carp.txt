@@ -1,0 +1,7 @@
+exec ../../common/imp.txt
+bind F12 "// carp"
+bind Ctrl-F12 "// carp"
+// settoolbelt item_id_here 1 // carving knife
+// settoolbelt item_id_here 2 // mallet
+// settoolbelt item_id_here 3 // file
+// settoolbelt item_id_here 4 // pelt

@@ -1,0 +1,5 @@
+bind F12 "// forage"
+bind Ctrl+F12 "// forage"
+bind X FORAGE
+bind C BOTANIZE
+bind Shift-C PICK_FLOWERS

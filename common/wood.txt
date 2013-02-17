@@ -1,0 +1,6 @@
+bind F12 "// wood"
+bind Ctrl+F12 "// wood"
+bind X CUT_DOWN
+bind Shift-X PRUNE
+bind C CHOP_UP
+bind Shift-C PICK_SPROUT

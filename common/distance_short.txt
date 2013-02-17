@@ -1,0 +1,3 @@
+setoption trees 1
+setoption structure_render_distance 3
+setoption item_creature_render_distance 4

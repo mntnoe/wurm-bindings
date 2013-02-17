@@ -1,0 +1,2 @@
+exec ../../common/animals.txt
+// settoolbelt item_id_here 1 // grooming brush

@@ -1,0 +1,2 @@
+exec ../../common/forage.txt
+// settoolbelt item_id_here 3 // sickle
