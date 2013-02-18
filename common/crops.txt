@@ -2,4 +2,5 @@ bind F12 "// crops"
 bind Ctrl+F12 "// crops"
 bind X SOW
 bind C FARM
-bind Shift-C HARVEST   // also for gathering grass and reed
+// also for gathering grass and reed
+bind Shift-C HARVEST
